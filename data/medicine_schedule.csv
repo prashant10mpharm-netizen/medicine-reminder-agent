@@ -1,0 +1,31 @@
+medicine_name,user_provided_instruction,time_of_day,start_date,refill_date,notes,doctor_pharmacist_contact
+Paracetamol 500mg,Take with food avoid alcohol,Morning,2026-06-01,2026-07-15,Causes mild drowsiness,Dr. Mehta - 9812345670
+Metformin 500mg,Take after meals twice daily,Morning,2026-05-15,2026-07-10,Do not skip meals with this,Dr. Sharma - 9823456781
+Atorvastatin 10mg,Take at bedtime on empty stomach,Night,2026-05-01,2026-08-01,Avoid grapefruit juice,Dr. Sharma - 9823456781
+Amoxicillin 250mg,Take every 8 hours complete full course,Morning,2026-06-20,2026-06-30,Finish even if feeling better,Dr. Patel - 9834567892
+Vitamin D3 60000IU,Take once weekly with milk,Morning,2026-04-10,2026-08-10,Weekly dose not daily,Dr. Mehta - 9812345670
+Losartan 50mg,Take once daily same time each day,Morning,2026-03-01,2026-07-20,Monitor blood pressure regularly,Dr. Rao - 9845678903
+Omeprazole 20mg,Take 30 minutes before breakfast,Morning,2026-06-05,2026-07-25,Do not crush capsule,Dr. Patel - 9834567892
+Cetirizine 10mg,Take at night may cause sleepiness,Night,2026-06-15,2026-07-30,Avoid driving after taking,Dr. Mehta - 9812345670
+Amlodipine 5mg,Take once daily morning or night,Morning,2026-02-20,2026-07-18,Consistent timing important,Dr. Rao - 9845678903
+Azithromycin 500mg,Take once daily for 3 days on empty stomach,Morning,2026-06-25,2026-06-28,Short course complete fully,Dr. Patel - 9834567892
+Vitamin B12 1500mcg,Take once daily with breakfast,Morning,2026-05-10,2026-08-05,Store in cool dry place,Dr. Mehta - 9812345670
+Pantoprazole 40mg,Take before breakfast empty stomach,Morning,2026-06-01,2026-07-28,Do not take with other antacids,Dr. Patel - 9834567892
+Levothyroxine 50mcg,Take on empty stomach first thing morning,Morning,2026-01-15,2026-07-15,Wait 30 min before eating,Dr. Rao - 9845678903
+Ibuprofen 400mg,Take with food as needed for pain,Afternoon,2026-06-18,2026-07-05,Do not exceed 3 times daily,Dr. Mehta - 9812345670
+Clopidogrel 75mg,Take once daily with or without food,Morning,2026-04-01,2026-07-22,Avoid missing doses,Dr. Rao - 9845678903
+Multivitamin,Take once daily after breakfast,Morning,2026-05-20,2026-08-15,General health supplement,Dr. Mehta - 9812345670
+Doxycycline 100mg,Take with plenty of water avoid lying down,Night,2026-06-22,2026-07-02,Avoid sun exposure while on this,Dr. Patel - 9834567892
+Glimepiride 2mg,Take before breakfast,Morning,2026-03-10,2026-07-19,Watch for low sugar symptoms,Dr. Sharma - 9823456781
+Montelukast 10mg,Take once daily at bedtime,Night,2026-06-01,2026-08-01,For allergy and asthma control,Dr. Rao - 9845678903
+Iron Folic Acid,Take on empty stomach with vitamin C,Morning,2026-05-05,2026-08-05,May cause dark stools normal,Dr. Mehta - 9812345670
+Rosuvastatin 20mg,Take at night any time,Night,2026-04-15,2026-07-21,Avoid alcohol,Dr. Sharma - 9823456781
+Diclofenac 50mg,Take after food twice daily,Afternoon,2026-06-19,2026-07-06,Short term use only,Dr. Patel - 9834567892
+Calcium Vitamin D,Take after lunch,Afternoon,2026-05-25,2026-08-20,Take separately from iron tablets,Dr. Mehta - 9812345670
+Sertraline 50mg,Take once daily morning with food,Morning,2026-02-01,2026-07-24,Do not stop suddenly,Dr. Sharma - 9823456781
+Salbutamol Inhaler,Use as needed for breathing difficulty,As needed,2026-06-10,2026-08-10,Shake well before use,Dr. Rao - 9845678903
+Hydrochlorothiazide 12.5mg,Take once daily in morning,Morning,2026-03-20,2026-07-23,May increase urination,Dr. Sharma - 9823456781
+Zinc Sulphate,Take after food once daily,Afternoon,2026-06-01,2026-07-31,Supports immunity,Dr. Mehta - 9812345670
+Prednisolone 5mg,Take with food do not stop abruptly,Morning,2026-06-12,2026-06-26,Taper dose as advised only by doctor,Dr. Patel - 9834567892
+Insulin Glargine,Inject once daily same time as advised,Night,2026-01-01,2026-07-15,Store in refrigerator,Dr. Rao - 9845678903
+Folic Acid 5mg,Take once daily any time,Morning,2026-05-01,2026-08-01,Simple daily supplement,Dr. Mehta - 9812345670
